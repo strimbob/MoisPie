@@ -139,11 +139,22 @@ new version should work, tested with v_0_8_0
 
 http://openframeworks.cc/download/
 
-and download the addon 
+and download the addon ofxUI and ofxTweener
 
 https://github.com/rezaali/ofxUI
 
+https://github.com/hautetechnique/ofxTweener
+
+
 place the folder in the addons folder of openframeworks 
+
+
+then put the Visualisation folder in to 
+of_v0.8.3/apps/myApps
+
+then open the example-Buttons.vcxproj
+
+and it should compile 
 
 
  
