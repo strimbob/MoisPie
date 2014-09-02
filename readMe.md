@@ -170,13 +170,15 @@ you would then have to recode it to for the teensy
 
 
 
-Runing video through the leds
+video Leds
 ==========================================
 
 
 install
 http://processing.org
-here is the processing code 		
+
+here is the processing code 	
+	
 http://samy.pl/VideoDisplay/Processing/movie2serial/movie2serial.pde
 
 
@@ -187,11 +189,22 @@ int the teensy code you must change this line
 
 
 const int config = WS2811_800kHz; // color config is on the PC side
+
+
 to ->
 
 const int config = WS2811_400kHz; // color config is on the PC side
 
 as the leds are only working at 400khz
+
+
+they is all an addon for openframeworks which is this too,
+however i have not  managed to get it working 
+with more the 60 leds on a strip 
+
+https://github.com/jasonrwalters/ofxTeensyOcto
+
+
 
 
 
