@@ -1,0 +1,162 @@
+<presetNu>
+    <fadeTime>10.000000000</fadeTime>
+    <tween>0.000000000</tween>
+    <tweenTime>1.000000000</tweenTime>
+    <_red>0</_red>
+    <_blue>138</_blue>
+    <_green>231</_green>
+    <_active>1</_active>
+    <_rotRL>0</_rotRL>
+    <_rotUpDown>1</_rotUpDown>
+    <_ledPosX>75</_ledPosX>
+    <_ledPosY>44</_ledPosY>
+    <__widthLed>24</__widthLed>
+    <__hightLed>15</__hightLed>
+    <_RLStop>1</_RLStop>
+    <_rotUpStop>0</_rotUpStop>
+    <tempactive>0</tempactive>
+</presetNu>
+<presetNu>
+    <fadeTime>10.000000000</fadeTime>
+    <tween>0.000000000</tween>
+    <tweenTime>1.000000000</tweenTime>
+    <_red>60</_red>
+    <_blue>13</_blue>
+    <_green>241</_green>
+    <_active>0</_active>
+    <_rotRL>1</_rotRL>
+    <_rotUpDown>1</_rotUpDown>
+    <_ledPosX>3</_ledPosX>
+    <_ledPosY>18</_ledPosY>
+    <__widthLed>24</__widthLed>
+    <__hightLed>15</__hightLed>
+    <_RLStop>0</_RLStop>
+    <_rotUpStop>1</_rotUpStop>
+    <tempactive>0</tempactive>
+</presetNu>
+<presetNu>
+    <fadeTime>10.000000000</fadeTime>
+    <tween>0.000000000</tween>
+    <tweenTime>1.000000000</tweenTime>
+    <_red>163</_red>
+    <_blue>142</_blue>
+    <_green>92</_green>
+    <_active>0</_active>
+    <_rotRL>1</_rotRL>
+    <_rotUpDown>1</_rotUpDown>
+    <_ledPosX>3</_ledPosX>
+    <_ledPosY>18</_ledPosY>
+    <__widthLed>24</__widthLed>
+    <__hightLed>15</__hightLed>
+    <_RLStop>1</_RLStop>
+    <_rotUpStop>1</_rotUpStop>
+    <tempactive>0</tempactive>
+</presetNu>
+<presetNu>
+    <fadeTime>10.000000000</fadeTime>
+    <tween>0.000000000</tween>
+    <tweenTime>1.000000000</tweenTime>
+    <_red>60</_red>
+    <_blue>156</_blue>
+    <_green>178</_green>
+    <_active>1</_active>
+    <_rotRL>1</_rotRL>
+    <_rotUpDown>0</_rotUpDown>
+    <_ledPosX>6</_ledPosX>
+    <_ledPosY>123</_ledPosY>
+    <__widthLed>24</__widthLed>
+    <__hightLed>15</__hightLed>
+    <_RLStop>0</_RLStop>
+    <_rotUpStop>0</_rotUpStop>
+    <tempactive>0</tempactive>
+</presetNu>
+<presetNu>
+    <fadeTime>10.000000000</fadeTime>
+    <tween>0.000000000</tween>
+    <tweenTime>1.000000000</tweenTime>
+    <_red>174</_red>
+    <_blue>191</_blue>
+    <_green>248</_green>
+    <_active>0</_active>
+    <_rotRL>1</_rotRL>
+    <_rotUpDown>0</_rotUpDown>
+    <_ledPosX>5</_ledPosX>
+    <_ledPosY>4</_ledPosY>
+    <__widthLed>24</__widthLed>
+    <__hightLed>15</__hightLed>
+    <_RLStop>0</_RLStop>
+    <_rotUpStop>0</_rotUpStop>
+    <tempactive>0</tempactive>
+</presetNu>
+<presetNu>
+    <fadeTime>10.000000000</fadeTime>
+    <tween>0.000000000</tween>
+    <tweenTime>1.000000000</tweenTime>
+    <_red>24</_red>
+    <_blue>60</_blue>
+    <_green>41</_green>
+    <_active>1</_active>
+    <_rotRL>1</_rotRL>
+    <_rotUpDown>0</_rotUpDown>
+    <_ledPosX>10</_ledPosX>
+    <_ledPosY>98</_ledPosY>
+    <__widthLed>24</__widthLed>
+    <__hightLed>15</__hightLed>
+    <_RLStop>1</_RLStop>
+    <_rotUpStop>0</_rotUpStop>
+    <tempactive>0</tempactive>
+</presetNu>
+<presetNu>
+    <fadeTime>10.000000000</fadeTime>
+    <tween>0.000000000</tween>
+    <tweenTime>1.000000000</tweenTime>
+    <_red>53</_red>
+    <_blue>78</_blue>
+    <_green>132</_green>
+    <_active>0</_active>
+    <_rotRL>1</_rotRL>
+    <_rotUpDown>0</_rotUpDown>
+    <_ledPosX>4</_ledPosX>
+    <_ledPosY>18</_ledPosY>
+    <__widthLed>24</__widthLed>
+    <__hightLed>15</__hightLed>
+    <_RLStop>1</_RLStop>
+    <_rotUpStop>0</_rotUpStop>
+    <tempactive>0</tempactive>
+</presetNu>
+<presetNu>
+    <fadeTime>10.000000000</fadeTime>
+    <tween>0.000000000</tween>
+    <tweenTime>1.000000000</tweenTime>
+    <_red>233</_red>
+    <_blue>85</_blue>
+    <_green>131</_green>
+    <_active>1</_active>
+    <_rotRL>1</_rotRL>
+    <_rotUpDown>1</_rotUpDown>
+    <_ledPosX>75</_ledPosX>
+    <_ledPosY>98</_ledPosY>
+    <__widthLed>24</__widthLed>
+    <__hightLed>15</__hightLed>
+    <_RLStop>1</_RLStop>
+    <_rotUpStop>0</_rotUpStop>
+    <tempactive>0</tempactive>
+</presetNu>
+<presetNu>
+    <fadeTime>10.000000000</fadeTime>
+    <tween>0.000000000</tween>
+    <tweenTime>1.000000000</tweenTime>
+    <_red>173</_red>
+    <_blue>30</_blue>
+    <_green>176</_green>
+    <_active>1</_active>
+    <_rotRL>0</_rotRL>
+    <_rotUpDown>1</_rotUpDown>
+    <_ledPosX>50</_ledPosX>
+    <_ledPosY>40</_ledPosY>
+    <__widthLed>24</__widthLed>
+    <__hightLed>15</__hightLed>
+    <_RLStop>1</_RLStop>
+    <_rotUpStop>1</_rotUpStop>
+    <tempactive>0</tempactive>
+</presetNu>

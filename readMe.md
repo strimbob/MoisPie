@@ -1,16 +1,17 @@
 MoisPie
 =======
 
-To Insall 
-
+To Insall MoisPieTeensy.ino 
+===================================
 http://arduino.cc/en/Main/Software
 
 lates teensy Driver
 https://www.pjrc.com/teensy/td_download.html   
+open up MoisPieTeensy in the ardunio ide
 select the teensy3.1 board from the ardunio tools menu.
 
-use
-
+use MoisPieTeensy.ino 
+==========================================
 you can send serial comanads to the teensy to control the algorithm
 all the control messages are the same lenght, but not all the ints are used.
 for example the colour change uses all three of the ints after the first , 
@@ -79,6 +80,69 @@ the numuber after the letter is the colour to change max 8
 so..
 @C8,0,0,255,endofline
   would set the 8 colour to blue
+  
+  
+==========================================  
+  Serial to Teensy of Mac
+==========================================
+
+this is a way of testing the serial commands 
+
+To install Serial to Teensy of Mac
+
+	there is an compiled app in serial To Teensy of MAC/bin
+	serialExampleDebug.app
+	
+to compiled the code you need to 
+install xcode
+download openframeworks, new version should work, tested with v_0_8_0
+http://openframeworks.cc/download/
+
+then put the Serial To Teensy of Mac in to 
+of_v0.8.3/apps/myApps
+
+then open the serialExample.xcodeproj
+
+and it should compile 
+
+
+
+
+==========================================  
+   Visualisation
+==========================================
+
+a way of offline Visualing the way the code with work
+
+
+	there is an compiled app in serial To Visualisation/bin
+	example-ButtonsDebug.app
+	
+install xcode
+download openframeworks, new version should work, tested with v_0_8_0
+http://openframeworks.cc/download/
+and download the addon 
+https://github.com/rezaali/ofxUI
+place the folder in the addons folder of openframeworks 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
   
   
   
