@@ -14,22 +14,34 @@ use
 you can send serial comanads to the teensy to control the algorithm
 all the control messages are the same lenght, but not all the ints are used.
 for example the colour change uses all three of the ints after the first , 
+
 here are some examples...
 
 if you send ver a serial @ 9600
  "@C1,255,255,255,endofline"
  this would change the secound colour to white..  
 the message is broken down like this
+
 @ = incoming message 
+
 C = change colour
+
 1 = the colour to change
+
 , = end the last message
+
 255 = red to 255
+
 ,  = end the last message
+
 255 = blue to 255
+
 ,  = end the last message
+
 255 = green to 255
+
 ,  = end the last message
+
 endofline = the comannd is finnished
 
 
