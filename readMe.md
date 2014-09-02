@@ -133,10 +133,16 @@ a way of offline Visualing the way the code with work
 	example-ButtonsDebug.app
 	
 install xcode
-download openframeworks, new version should work, tested with v_0_8_0
+
+download openframeworks,
+new version should work, tested with v_0_8_0
+
 http://openframeworks.cc/download/
+
 and download the addon 
+
 https://github.com/rezaali/ofxUI
+
 place the folder in the addons folder of openframeworks 
 
 
