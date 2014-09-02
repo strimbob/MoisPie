@@ -185,7 +185,7 @@ http://samy.pl/VideoDisplay/Processing/movie2serial/movie2serial.pde
 the teensy code is in the ardunio ide 
 Examples->OctoW2811-> videoDisplay
 
-int the teensy code you must change this line 
+in the teensy code you must change this line 
 
 
 const int config = WS2811_800kHz; // color config is on the PC side
@@ -198,7 +198,7 @@ const int config = WS2811_400kHz; // color config is on the PC side
 as the leds are only working at 400khz
 
 
-they is all an addon for openframeworks which is this too,
+there is all an addon for openframeworks which is this too,
 however i have not  managed to get it working 
 with more the 60 leds on a strip 
 
