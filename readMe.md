@@ -16,13 +16,17 @@ use MoisPieTeensy.ino
 how to use
 ===========
 
-you can send serial comanads to the teensy to control the algorithm
+you can send serial commands to the teensy to control the algorithm
+
 all the control messages are the same lenght, but not all the ints are used.
+
 for example the colour change uses all three of the ints after the first , 
 
 here are some examples...
 
-if you send ver a serial @ 9600
+
+
+
  "@C1,255,255,255,endofline"
  this would change the secound colour to white..  
 the message is broken down like this
@@ -96,6 +100,12 @@ so..
   would set the 8 colour to blue
   
   
+  
+  the serial speed must be 9600
+  
+  
+  
+  
 ==========================================  
   Serial to Teensy of Mac
 ==========================================
@@ -126,7 +136,7 @@ and it should compile
    Visualisation
 ==========================================
 
-a way of offline Visualing the way the code with work
+a way of offline Visualising the way the code works..
 
 
 	there is an compiled app in serial To Visualisation/bin
@@ -155,6 +165,37 @@ of_v0.8.3/apps/myApps
 then open the example-Buttons.vcxproj
 
 and it should compile 
+
+you would then have to recode it to for the teensy 
+
+
+
+Runing video through the leds
+==========================================
+
+
+install
+http://processing.org
+here is the processing code 		
+http://samy.pl/VideoDisplay/Processing/movie2serial/movie2serial.pde
+
+
+the teensy code is in the ardunio ide 
+Examples->OctoW2811-> videoDisplay
+
+int the teensy code you must change this line 
+
+
+const int config = WS2811_800kHz; // color config is on the PC side
+to ->
+
+const int config = WS2811_400kHz; // color config is on the PC side
+
+as the leds are only working at 400khz
+
+
+
+
 
 
  
